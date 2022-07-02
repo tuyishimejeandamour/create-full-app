@@ -21,7 +21,7 @@ function main() {
     const projectName = process.argv[2];
     const currentPath = process.cwd();
     const projectPath = path.join(currentPath, projectName);
-    const git_repo = "https://github.com/Prasanna0908/StarterFiles.git";
+    const git_repo = "https://github.com/tuyishimejeandamour/project.git";
 
 
     try {
