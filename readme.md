@@ -1,4 +1,4 @@
-# Starter files for Express Projects
+# Starter files for Frontend and Backend of Project
 
 Automating the process of connecting mongoDB,setting up the server and the commonly used folder structure with one command
 
@@ -7,20 +7,20 @@ Automating the process of connecting mongoDB,setting up the server and the commo
 Step 1: Install my-project with npm (If your installing the module for the first time ):
 
 ```bash
-  npm i create-dobby-app -g
+  npm i create-full-app -g
 ```
 
 ```bash
-  npx create-dobby-app project_name
+  npx create-full-app project_name
 ```
 
 If you have already installed the module then directly use npx command-
 
 ```bash
-  npx create-dobby-app project_name
+  npx create-full-app project_name
 ```
  ## magic has happened now
- 
+
 
 
 ```bash
