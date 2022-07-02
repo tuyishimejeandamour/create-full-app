@@ -1,5 +1,5 @@
 {
-  "name": "full-app",
+  "name": "create-full-app",
   "version": "1.0.0",
   "description": "This package is used to setup the file structure of your express app with just 1 command which reduces your time to setup the boiler code",
   "main": "index.js",
